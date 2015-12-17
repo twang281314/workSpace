@@ -1,0 +1,18 @@
+
+
+
+select * from transporter 运输商
+
+select * transporter_unit 运输单位
+
+select *  from tm_product_service 服务产品
+
+select * from transporter_log 快递对接操作日志
+
+select * from tm_account_setting 运输单位帐号设置
+
+select * from se_shipment_return  发货单退件
+
+select ** from tm_signle_template 快递单打印模版
+
+select * from ba_stock_unit 仓库关联运输单位

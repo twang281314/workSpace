@@ -2,7 +2,7 @@
 ///summary
 ///请求对象
 ///summary
-public  class request
+public  class Request
 {
     ///summary
     ///出货编号
@@ -30,7 +30,7 @@ public  class request
 ///summary
 ///返回对象
 ///summary
-public class response
+public class Response
 {
     ///summary
     ///配送编号

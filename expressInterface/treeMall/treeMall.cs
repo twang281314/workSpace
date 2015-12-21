@@ -20,10 +20,6 @@ public  class Request
     ///summary
     public string transporterId{set;get;}
     
-    ///summary
-    ///网仓订单号
-    ///summary
-    public string orderUkid{set;get;}
     
 }
 
@@ -32,6 +28,17 @@ public  class Request
 ///summary
 public class Response
 {
+     ///summary
+    ///出货编号
+    ///summary
+    public string shipmentNo{set;get;}
+    
+    ///summary
+    ///订单编号
+    ///给物流业者的客户订单编号
+    ///summary
+    public string orderNo{set;get;}
+    
     ///summary
     ///配送编号
     ///summary

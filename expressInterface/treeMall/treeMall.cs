@@ -16,7 +16,7 @@ public  class Request
     public string orderNo{set;get;}
     
     ///summary
-    ///网仓运输商
+    ///运输商
     ///summary
     public string transporterId{set;get;}
     

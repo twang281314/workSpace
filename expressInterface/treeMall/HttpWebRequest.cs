@@ -26,3 +26,6 @@ public class Test(){
     string resultResponse=streamReader.ReadToEnd();
     
 }
+
+select split_package_no  from se_package where package_no='TP62151228000017'
+

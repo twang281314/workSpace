@@ -7,7 +7,7 @@ public  class Request
     ///summary
     ///出货编号
     ///summary
-    public string shipmentNo{set;get;}
+    public string shipperNo{set;get;}
     
     ///summary
     ///订单编号
@@ -31,7 +31,7 @@ public class Response
      ///summary
     ///出货编号
     ///summary
-    public string shipmentNo{set;get;}
+    public string shipperNo{set;get;}
     
     ///summary
     ///订单编号

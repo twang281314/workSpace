@@ -1,4 +1,4 @@
-　HttpWebRequest类与HttpRequest类的区别。
+HttpWebRequest类与HttpRequest类的区别。
 
 　　HttpRequest类的对象用于服务器端，获取客户端传来的请求的信息，包括HTTP报文传送过来的所有信息。而HttpWebRequest用于客户端，拼接请求的HTTP报文并发送等。
 
